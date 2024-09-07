@@ -28,6 +28,11 @@ Ex Software Team Leader at [6s Cubesat Team](https://polispace.it/6s-cubesat-pro
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
+[![Ghidra](https://img.shields.io/badge/Ghidra-orange?logo=Ghidra&logoColor=red)](https://ghidra-sre.org/)
+[![Ida Pro](https://img.shields.io/badge/IDAPro-cyan?logo=Ghidra&logoColor=red)](https://hex-rays.com/ida-pro/)
+
+
+
 
 ### Operating Systems
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
