@@ -1,4 +1,4 @@
-# Hi there, I'm Luca! 👋
+# 👋 Hi there, I'm Luca!
 ## ⁉️ Whoami
 I'm a Computer Science and Engineering Master's Degree student at Politecnico di Milano.  
 Ex Software Team Leader at [6s Cubesat Team](https://polispace.it/6s-cubesat-project/). The goal of this team? Design, build and launch a fully students-made satellite in space!
