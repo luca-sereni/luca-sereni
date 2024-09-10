@@ -40,7 +40,7 @@ Ex Software Team Leader at [6s Cubesat Team](https://polispace.it/6s-cubesat-pro
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 <br>
-
+  
 ## 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luca-sereni-aab368234/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:lucasere00@gmail.com)
