@@ -1,6 +1,7 @@
 # 👋 Hi there, I'm Luca!
 ## ⁉️ Whoami
 I'm a Computer Science and Engineering Master's Degree graduate at Politecnico di Milano.  
+I work as cyber security consultant at Spike Reply, focusing on penetration testing.
 Ex Software Team Leader at [6s Cubesat Team](https://polispace.it/6s-cubesat-project/). The goal of this team? Design, build and launch a fully student-made satellite in space!
 
 <br>
